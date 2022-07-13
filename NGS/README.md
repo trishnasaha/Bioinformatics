@@ -1,1 +1,1 @@
-## NGS
+## [NGS](https://www.biostarhandbook.com/)
