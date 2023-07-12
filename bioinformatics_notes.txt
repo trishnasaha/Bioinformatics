@@ -1,0 +1,5 @@
+SNV or single nucleotide variant - variation of a single nucleotide in a population's genome
+
+SNP or single nucleotide polymorphism - single base substitution limited to gremlin DNA and must be present in at least 1% of the population.
+
+CNAs or Copy number alterations - Changes in DNA structure resulting gain/amplification or loss/deletion of copies of DNA sections from a normal genome.
